@@ -1,0 +1,62 @@
+—------------------------------------------------------------------------------------------------------------------
+### INICIO ###
+
+Belfor | Knight | 182 de vida vs Marco | Knight | 186 de vida
+
+### BATALLA ###
+
+Turno: 1
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 170
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en 174
+
+Turno: 2
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 158
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en 162
+
+Turno: 3
+Marco ataca con Sword Stab... Da en el blanco!. La vida de Belfor queda en 128
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en 150
+
+Turno: 4
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 116
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 130
+
+Turno: 5
+Marco ataca con Sword Stab... Falla!. La vida de Belfor se mantiene en 116
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 110
+
+Turno: 6
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 104
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 90
+
+Turno: 7
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 92
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 70
+
+Turno: 8
+Marco ataca con Sword Stab... Falla!. La vida de Belfor se mantiene en 92
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 50
+
+Turno: 9
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 80
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en 38
+
+Turno: 10
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 68
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en 26
+
+Turno: 11
+Marco ataca con Fist Uppercut... Da en el blanco!. La vida de Belfor queda en 56
+Belfor ataca con Sword Thrust... Da en el blanco!. La vida de Marco queda en 6
+
+Turno: 12
+Marco ataca con Sword Stab... Da en el blanco!. La vida de Belfor queda en 26
+Belfor ataca con Fist Uppercut... Da en el blanco!. La vida de Marco queda en -6
+
+### RESUMEN ###
+
+Belfor gana la batalla!
+El Belfor falló 0 veces su ataque
+El Marco falló 2 veces su ataque
+
+—------------------------------------------------------------------------------------------------------------------------
